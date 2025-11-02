@@ -12,9 +12,8 @@
     <Authors>RoMars</Authors>
     <Description>A .NET client library for controlling Ecovacs IoT devices</Description>
     <PackageTags>ecovacs;iot;robot;vacuum;cleaner</PackageTags>
-    <RepositoryUrl>https://github.com/romars/iot-ecovacs</RepositoryUrl>
+    <RepositoryUrl>https://github.com/romars/RoMars.IoT.Ecovacs</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageReadmeFile>../../README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
